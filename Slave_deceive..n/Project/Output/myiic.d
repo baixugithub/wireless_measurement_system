@@ -1,0 +1,16 @@
+..\Output\myiic.o: ..\..\Hardware\src\myiic.c
+..\Output\myiic.o: ..\..\Hardware\inc\myiic.h
+..\Output\myiic.o: ..\..\system\inc\system.h
+..\Output\myiic.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\myiic.o: ..\..\CMSIS\CoreSupport\core_cm3.h
+..\Output\myiic.o: D:\KEIL\KEIL_Pro\keil°²×°\ARM\RV31\INC\stdint.h
+..\Output\myiic.o: ..\..\CMSIS\STM32F10x\system_stm32f10x.h
+..\Output\myiic.o: ..\..\user\inc\stm32f10x_conf.h
+..\Output\myiic.o: ..\..\Libraries\inc\stm32f10x_bkp.h
+..\Output\myiic.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\myiic.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\Output\myiic.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\Output\myiic.o: ..\..\Libraries\inc\stm32f10x_spi.h
+..\Output\myiic.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\Output\myiic.o: ..\..\Libraries\inc\misc.h
+..\Output\myiic.o: ..\..\system\inc\delay.h

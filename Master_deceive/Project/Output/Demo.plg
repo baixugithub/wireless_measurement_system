@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+G:\robot_studio_data\项目\实验室项目\项目_基于stm32的多点无线测温系统\多点无线测温系统\Master_deceive\Project\Pro\Demo.uvproj
+Project File Date:  04/05/2015
+
+<h2>Output:</h2>
+Build target 'Master'
+compiling main.c...
+linking...
+Program Size: Code=30192 RO-data=4012 RW-data=96 ZI-data=7296  
+FromELF: creating hex file...
+"..\Output\Demo.axf" - 0 Error(s), 0 Warning(s).

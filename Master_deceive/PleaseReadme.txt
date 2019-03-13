@@ -1,0 +1,2 @@
+项目文件Demo.uvproj在project的Pro内
+这是多点无线测温系统的主设备程序

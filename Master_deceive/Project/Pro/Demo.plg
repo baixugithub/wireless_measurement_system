@@ -1,0 +1,58 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\BaiXu\Desktop\led\1.LED_TEST\Project\Pro\Demo.uvproj
+Project File Date:  03/06/2015
+
+<h2>Output:</h2>
+Build target 'LED'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\CMSIS\STM32F10x\system_stm32f10x.c: 0 warnings, 1 error
+compiling misc.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\misc.c: 0 warnings, 1 error
+compiling stm32f10x_gpio.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_gpio.c: 0 warnings, 1 error
+compiling stm32f10x_rcc.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_rcc.c: 0 warnings, 1 error
+assembling startup_stm32f10x_md.s...
+compiling main.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\user\src\main.c: 0 warnings, 1 error
+compiling stm32f10x_it.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\user\src\stm32f10x_it.c: 0 warnings, 1 error
+Target not created
+Build target 'LED'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+compiling misc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling main.c...
+compiling stm32f10x_it.c...
+linking...
+Program Size: Code=2864 RO-data=268 RW-data=40 ZI-data=1632  
+"..\Output\Demo.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED'
+linking...
+Program Size: Code=2864 RO-data=268 RW-data=40 ZI-data=1632  
+"..\Output\Demo.axf" - 0 Error(s), 0 Warning(s).

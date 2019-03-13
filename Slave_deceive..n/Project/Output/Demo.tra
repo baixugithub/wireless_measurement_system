@@ -1,0 +1,47 @@
+*** Creating Trace Output File '..\Output\Demo.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\output\main.o"'
+### List of Objects: adding '"..\output\stm32f10x_it.o"'
+### List of Objects: adding '"..\output\led.o"'
+### List of Objects: adding '"..\output\lcd.o"'
+### List of Objects: adding '"..\output\key.o"'
+### List of Objects: adding '"..\output\flash.o"'
+### List of Objects: adding '"..\output\spi.o"'
+### List of Objects: adding '"..\output\24l01.o"'
+### List of Objects: adding '"..\output\mmc_sd.o"'
+### List of Objects: adding '"..\output\24cxx.o"'
+### List of Objects: adding '"..\output\myiic.o"'
+### List of Objects: adding '"..\output\ds18b20.o"'
+### List of Objects: adding '"..\output\delay.o"'
+### List of Objects: adding '"..\output\system.o"'
+### List of Objects: adding '"..\output\usart.o"'
+### List of Objects: adding '"..\output\misc.o"'
+### List of Objects: adding '"..\output\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\output\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\output\stm32f10x_usart.o"'
+### List of Objects: adding '"..\output\stm32f10x_spi.o"'
+### List of Objects: adding '"..\output\startup_stm32f10x_md.o"'
+### List of Objects: adding '"..\output\core_cm3.o"'
+### List of Objects: adding '"..\output\system_stm32f10x.o"'
+### List of Objects: adding '"..\output\exfuns.o"'
+### List of Objects: adding '"..\output\mycc936.o"'
+### List of Objects: adding '"..\output\diskio.o"'
+### List of Objects: adding '"..\output\ff.o"'
+### List of Objects: adding '"..\output\fontupd.o"'
+### List of Objects: adding '"..\output\text.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\output\main.o" "..\output\stm32f10x_it.o" "..\output\led.o" "..\output\lcd.o" "..\output\key.o" "..\output\flash.o" "..\output\spi.o" "..\output\24l01.o" "..\output\mmc_sd.o" "..\output\24cxx.o" "..\output\myiic.o" "..\output\ds18b20.o" "..\output\delay.o" "..\output\system.o" "..\output\usart.o" "..\output\misc.o" "..\output\stm32f10x_gpio.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_usart.o" "..\output\stm32f10x_spi.o" "..\output\startup_stm32f10x_md.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" "..\output\exfuns.o" "..\output\mycc936.o" "..\output\diskio.o" "..\output\ff.o" "..\output\fontupd.o" "..\output\text.o" --library_type=microlib --strict --scatter "..\Output\Demo.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\listing\Demo.map" -o "..\Output\Demo.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\Output\Demo.axf'
+### ADS-LD Command File: '..\Output\Demo.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\Output\Demo.lnp', Handle=0x00000714
+### Writing '.lnp' file
+### ADS-LD Command file '..\Output\Demo.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

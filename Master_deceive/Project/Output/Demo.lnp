@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "..\output\main.o" "..\output\stm32f10x_it.o" "..\output\led.o" "..\output\lcd.o" "..\output\key.o" "..\output\flash.o" "..\output\spi.o" "..\output\24l01.o" "..\output\mmc_sd.o" "..\output\24cxx.o" "..\output\myiic.o" "..\output\misc.o" "..\output\stm32f10x_gpio.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_usart.o" "..\output\stm32f10x_spi.o" "..\output\delay.o" "..\output\system.o" "..\output\usart.o" "..\output\startup_stm32f10x_md.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" "..\output\exfuns.o" "..\output\mycc936.o" "..\output\diskio.o" "..\output\ff.o" "..\output\fontupd.o" "..\output\text.o" --library_type=microlib --strict --scatter "..\Output\Demo.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\listing\Demo.map" -o "..\Output\Demo.axf"

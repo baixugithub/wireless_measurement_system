@@ -1,0 +1,17 @@
+..\Output\flash.o: ..\..\Hardware\src\flash.c
+..\Output\flash.o: ..\..\Hardware\inc\flash.h
+..\Output\flash.o: ..\..\system\inc\system.h
+..\Output\flash.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\flash.o: ..\..\CMSIS\CoreSupport\core_cm3.h
+..\Output\flash.o: D:\KEIL\KEIL_Pro\keil°²×°\ARM\RV31\INC\stdint.h
+..\Output\flash.o: ..\..\CMSIS\STM32F10x\system_stm32f10x.h
+..\Output\flash.o: ..\..\user\inc\stm32f10x_conf.h
+..\Output\flash.o: ..\..\Libraries\inc\stm32f10x_bkp.h
+..\Output\flash.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\flash.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\Output\flash.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\Output\flash.o: ..\..\Libraries\inc\stm32f10x_spi.h
+..\Output\flash.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\Output\flash.o: ..\..\Libraries\inc\misc.h
+..\Output\flash.o: ..\..\Hardware\inc\spi.h
+..\Output\flash.o: ..\..\system\inc\delay.h
